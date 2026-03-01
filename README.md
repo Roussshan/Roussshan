@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **ERP Clone (MERN Stack Project)**  <br>🤝 I’m looking to collaborate on **Full Stack Web Projects**  <br>🆘 I’m looking for help with **System Design & Backend Scaling**  <br>🌱 I’m currently learning **Advanced React & API Development**<br>💬 Ask me about **JavaScript, React, Node.js, MongoDB**  <br>⚡ Fun fact: **I love turning ideas into real-world applications 🚀** 
+🔭 I’m currently working on **Generative Ai-Chatbot**  <br>🤝 I’m looking to collaborate on **Full Stack Web Projects**  <br>🆘 I’m looking for help with **System Design & Backend Scaling**  <br>🌱 I’m currently learning **Advanced React & API Development**<br>💬 Ask me about **JavaScript, React, Node.js, MongoDB**  <br>⚡ Fun fact: **I love turning ideas into real-world applications 🚀** 
 
 
 ## 🌐 Socials:
