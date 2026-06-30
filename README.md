@@ -22,7 +22,7 @@ I'm a MERN stack developer focused on building practical, well-structured web ap
 - 🔭 Current project: **Generative AI Chatbot**
 - 🌱 Learning: **Advanced React, API design, and system architecture**
 - 🤝 Open to collaborating on: **Full-stack web projects**
-- 💬 Ask me about: **JavaScript, React, Node.js, MongoDB**
+- 💬 Ask me about: **python, HTML, Data Science, MySQL, MongoDB**
 
 ---
 
