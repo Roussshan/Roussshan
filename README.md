@@ -79,19 +79,6 @@ Covers data cleaning, visualization, and insight extraction from real datasets.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Roushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roussshan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roussshan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Roussshan&theme=dark&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
