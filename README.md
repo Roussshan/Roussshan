@@ -84,7 +84,7 @@ A Gita-inspired mental wellness companion combining an empathetic AI chat experi
 <td width="50%" valign="top">
 
 ### 🌐 [Personal Portfolio](https://github.com/Roussshan/Personal_Portfolio)
-My personal portfolio website — a clean, responsive site showcasing my skills, projects, and background.
+My personal portfolio website — a clean, responsive site showcasing my skills, projects, and background. [Live demo →](https://roussshan.vercel.app)
 
 `HTML` `CSS`
 
