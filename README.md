@@ -83,10 +83,10 @@ A Gita-inspired mental wellness companion combining an empathetic AI chat experi
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 [Favourite Movie Manager](https://github.com/Roussshan/Favourite_Movie_Manager)
-A command-line tool to add, list, and delete favorite movies — clean CLI experience with persistent storage.
+### 🌐 [Personal Portfolio](https://github.com/Roussshan/Personal_Portfolio)
+My personal portfolio website — a clean, responsive site showcasing my skills, projects, and background.
 
-`Python`
+`HTML` `CSS`
 
 </td>
 <td width="50%" valign="top">
