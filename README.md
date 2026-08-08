@@ -1,8 +1,7 @@
 <div align="center">
 
-# Roushan Kumar
-
-**MERN Stack Developer · Greater Noida, India**
+# Hi, I'm Roushan Kumar 👋
+### MERN Stack Developer · Greater Noida, India
 
 Building full-stack web applications with clean architecture and real-world utility.
 
@@ -15,18 +14,19 @@ Building full-stack web applications with clean architecture and real-world util
 
 ---
 
-## About
+## 👨‍💻 About Me
 
 I'm a MERN stack developer focused on building practical, well-structured web applications. Currently working on a **Generative AI Chatbot** and deepening my expertise in system design and backend scalability.
 
-- 🔭 Current project: **Generative AI Chatbot**
-- 🌱 Learning: **Advanced React, API design, and system architecture**
-- 🤝 Open to collaborating on: **Full-stack web projects**
-- 💬 Ask me about: **python, HTML, Data Science, MySQL, MongoDB**
+- 🔭 **Current project:** Generative AI Chatbot
+- 🌱 **Learning:** Advanced React, API design, and system architecture
+- 🤝 **Open to collaborating on:** Full-stack web projects
+- 💬 **Ask me about:** Python, HTML, Data Science, MySQL, MongoDB
+- ⚡ **Fun fact:** I love turning ideas into real-world applications 🚀
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend**
 
@@ -59,26 +59,65 @@ I'm a MERN stack developer focused on building practical, well-structured web ap
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### [💸 Spend Smart](https://github.com/Roussshan/spend_smart)
-> Personal finance companion — not just an expense tracker, but a **finance time machine**.  
-Built with JavaScript. Helps users visualize and understand their spending over time.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### [🎓 ERP Clone](https://github.com/Roussshan/ERP-clone-)
-> A functional clone of a college ERP system built with HTML/CSS.  
-Recreates core student portal features including academic records and dashboards.
+### 💸 [Spend Smart](https://github.com/Roussshan/spend_smart)
+A personal finance companion built to be a **finance time machine**, not just an expense tracker — helps users visualize and understand spending patterns over time.
 
-### [🎬 Favourite Movie Manager](https://github.com/Roussshan/Favourite_Movie_Manager)
-> Command-line tool built in Python to add, list, and delete favorite movies.  
-Clean CLI experience with persistent storage.
+`JavaScript` `HTML/CSS`
 
-### [📊 Datasets Analysis](https://github.com/Roussshan/Datasets-Analysis-)
-> Exploratory data analysis using Jupyter Notebook and Python.  
-Covers data cleaning, visualization, and insight extraction from real datasets.
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [ERP Clone](https://github.com/Roussshan/ERP-clone-)
+A functional clone of a college ERP system, recreating core student portal features like academic records and dashboards.
+
+`HTML` `CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 [Favourite Movie Manager](https://github.com/Roussshan/Favourite_Movie_Manager)
+A command-line tool to add, list, and delete favorite movies — clean CLI experience with persistent storage.
+
+`Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Generative AI Chatbot
+*In progress* — building an AI-powered conversational assistant while deepening my system design and backend scalability skills.
+
+`Node.js` `React` `AI/LLM`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+📂 [View all repositories →](https://github.com/Roussshan?tab=repositories)
+
+</div>
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Roushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roussshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roussshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
 
 <div align="center">
 
