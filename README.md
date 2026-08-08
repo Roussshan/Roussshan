@@ -73,10 +73,10 @@ A personal finance companion built to be a **finance time machine**, not just an
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [ERP Clone](https://github.com/Roussshan/ERP-clone-)
-A functional clone of a college ERP system, recreating core student portal features like academic records and dashboards.
+### 🧘 [Ikora — AI Wellness Chatbot](https://github.com/Roussshan/ikora-)
+A Gita-inspired mental wellness companion combining an empathetic AI chat experience with mood tracking, guided breathing exercises, and a searchable Bhagavad Gita library. Detects the user's emotional state and responds using Google Gemini plus a curated knowledge base, with JWT-based auth. [Live demo →](https://ikoraa.netlify.app)
 
-`HTML` `CSS`
+`Flask` `Python` `MongoDB` `Gemini AI` `JWT`
 
 </td>
 </tr>
@@ -91,10 +91,10 @@ A command-line tool to add, list, and delete favorite movies — clean CLI exper
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Generative AI Chatbot
-*In progress* — building an AI-powered conversational assistant while deepening my system design and backend scalability skills.
+### 🏨 [Hostel Management System](https://github.com/Roussshan/Hostel_management_system-)
+A SQL-based hostel management schema built while sharpening database design skills — covering table relationships, constraints, and query practice.
 
-`Node.js` `React` `AI/LLM`
+`SQL` `MySQL`
 
 </td>
 </tr>
