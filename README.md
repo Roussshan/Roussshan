@@ -74,7 +74,7 @@ A personal finance companion built to be a **finance time machine**, not just an
 <td width="50%" valign="top">
 
 ### 🧘 [Ikora — AI Wellness Chatbot](https://github.com/Roussshan/ikora-)
-A Gita-inspired mental wellness companion combining an empathetic AI chat experience with mood tracking, guided breathing exercises, and a searchable Bhagavad Gita library. Detects the user's emotional state and responds using Google Gemini plus a curated knowledge base, with JWT-based auth. [Live demo →](https://ikoraa.netlify.app)
+A Gita-inspired mental wellness companion combining an empathetic AI chat experience with mood tracking, guided breathing exercises, and a searchable Bhagavad Gita library. Detects the user's emotional state and responds using Google Gemini plus a curated knowledge base, with JWT-based auth. [Live demo →](https://ikora-69.vercel.app)
 
 `Flask` `Python` `MongoDB` `Gemini AI` `JWT`
 
@@ -84,7 +84,8 @@ A Gita-inspired mental wellness companion combining an empathetic AI chat experi
 <td width="50%" valign="top">
 
 ### 🌐 [Personal Portfolio](https://github.com/Roussshan/Personal_Portfolio)
-My personal portfolio website — a clean, responsive site showcasing my skills, projects, and background. [Live demo →](https://roussshan.vercel.app)
+My personal portfolio website — a clean, responsive site showcasing my skills, projects, and background. 
+[Live demo →](https://roussshan.vercel.app)
 
 `HTML` `CSS`
 
