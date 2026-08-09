@@ -1,8 +1,7 @@
 <div align="center">
 
 # Hi, I'm Roushan Kumar 👋
-### MERN Stack Developer · Greater Noida, India
-
+### MERN Stack Developer 
 Building full-stack web applications with clean architecture and real-world utility.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roushan-kumar-539178381/)
