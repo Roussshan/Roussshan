@@ -22,8 +22,7 @@ I'm a MERN stack developer focused on building practical, well-structured web ap
 - 🌱 **Learning:** Python, Data Science, SQL, MongoDB & Machine Learning
 - 🤝 **Open to collaborating on:** Beginner-friendly Data Science & Python projects
 - 💬 **Ask me about:** Python, Data Science, Data Analysis, MySQL, MongoDB 
-- ⚡ **Fun fact:** I love turning ideas into real-world applications 🚀
-
+- ⚡ **Fun fact:** I enjoy learning by building projects and turning data into useful insights!
 ---
 
 ## 🛠️ Tech Stack
