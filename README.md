@@ -17,7 +17,7 @@ Building full-stack web applications with clean architecture and real-world util
 
 I'm a MERN stack developer focused on building practical, well-structured web applications. Currently working on a **Generative AI Chatbot** and deepening my expertise in system design and backend scalability.
 
-- 🎓 3rd Year B.Tech Data Science Student
+- 🎓 **3rd Year B.Tech Data Science Student**
 - 🔍 **Interested in:** Data Analysis, Machine Learning & AI
 - 🌱 **Learning:** Python, Data Science, SQL, MongoDB & Machine Learning
 - 🤝 **Open to collaborating on:** Full-stack web projects 
