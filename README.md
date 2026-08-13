@@ -1,8 +1,9 @@
 <div align="center">
 
-# Hi, I'm Roushan Kumar 👋
-### MERN Stack Developer 
-Building full-stack web applications with clean architecture and real-world utility.
+## 📚 About Me
+
+I'm a **3rd Year B.Tech Data Science student** passionate about turning data into meaningful insights and building practical projects. Currently strengthening my skills in **Python, Data Analysis, SQL, Machine Learning, and Databases**, while exploring the world of **AI and Data Science**.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roushan-kumar-539178381/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/roussshan/)
